@@ -13,9 +13,6 @@ int salary() {
    vector<int> salaryBase(5);
    vector<double> taxBase(5);
     
-    //New Vectors
-    vector<int> annualSalaries(10);
-    vector<int> taxesToPay(10);
     
    salaryBase.at(0) = 0;
    salaryBase.at(1) = 20000;
@@ -30,11 +27,12 @@ int salary() {
    taxBase.at(4) = 0.40;
 
     
-    // TESTING GITHUB COMMIT ew
-    //2nd Test
    // FIXME: Declare annualSalaries and taxesToPay vectors to hold 10 elements each.
    // FIXME: Use the constant MAX_ELEMENTS to declare the vectors
     
+    //New Vectors
+    vector<int> annualSalaries(MAX_ELEMENTS);
+    vector<int> taxesToPay(MAX_ELEMENTS);
 
    cout << "\nEnter annual salary (0 to exit): " << endl;
    cin >> annualSalary;

@@ -27,6 +27,7 @@ int salary() {
 
     
     // TESTING GITHUB COMMIT ew
+    //2nd Test
    // FIXME: Declare annualSalaries and taxesToPay vectors to hold 10 elements each.
    // FIXME: Use the constant MAX_ELEMENTS to declare the vectors
 

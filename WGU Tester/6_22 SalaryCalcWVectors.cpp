@@ -25,6 +25,8 @@ int salary() {
    taxBase.at(3) = 0.30;
    taxBase.at(4) = 0.40;
 
+    
+    // TESTING GITHUB COMMIT
    // FIXME: Declare annualSalaries and taxesToPay vectors to hold 10 elements each.
    // FIXME: Use the constant MAX_ELEMENTS to declare the vectors
 

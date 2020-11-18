@@ -4,7 +4,7 @@
 //
 //  Created by Luis Vegerano on 11/18/20.
 //
-
+#include <stdio.h>
 #include <iostream>
 using namespace std;
 

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A76CC2825657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC2725657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp */; };
 		7AD0329125506FDC0056E01D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AD0329025506FDC0056E01D /* main.cpp */; };
 		7AF107C9255F070600D2CBAD /* 6_22 SalaryCalcWVectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF107C7255F070600D2CBAD /* 6_22 SalaryCalcWVectors.cpp */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7A76CC2725657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "752 Function w Loop Shampoo.cpp"; sourceTree = "<group>"; usesTabs = 1; };
 		7AD0328D25506FDC0056E01D /* WGU Tester */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "WGU Tester"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AD0329025506FDC0056E01D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		7AF107C7255F070600D2CBAD /* 6_22 SalaryCalcWVectors.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "6_22 SalaryCalcWVectors.cpp"; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 			children = (
 				7AD0329025506FDC0056E01D /* main.cpp */,
 				7AF107C7255F070600D2CBAD /* 6_22 SalaryCalcWVectors.cpp */,
+				7A76CC2725657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp */,
 				7AF107C8255F070600D2CBAD /* 6_22 SalaryCalcWVectors.hpp */,
 			);
 			path = "WGU Tester";
@@ -123,6 +126,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A76CC2825657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp in Sources */,
 				7AD0329125506FDC0056E01D /* main.cpp in Sources */,
 				7AF107C9255F070600D2CBAD /* 6_22 SalaryCalcWVectors.cpp in Sources */,
 			);

@@ -16,7 +16,13 @@ double CelsiusToKelvin(double valueCelsius) {
    return valueKelvin;
 }
 
-/* Your solution goes here  */
+double KelvinToCelsius(double valueKelvin){
+   double valueCelsius = 0.0;
+   
+   valueCelsius = valueKelvin - 273.15;
+   
+   return valueCelsius;
+}
 
 int kelcel() {
    double valueC = 0.0;

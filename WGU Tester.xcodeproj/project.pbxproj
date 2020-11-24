@@ -16,6 +16,7 @@
 		7AF107C9255F070600D2CBAD /* 6_22 SalaryCalcWVectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF107C7255F070600D2CBAD /* 6_22 SalaryCalcWVectors.cpp */; };
 		7AF95525256D6A6A00D9F292 /* 7 12 1 Use an existing function.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF95524256D6A6900D9F292 /* 7 12 1 Use an existing function.cpp */; };
 		7AF95528256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF95527256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp */; };
+		7AF9552B256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF9552A256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		7AF107C8255F070600D2CBAD /* 6_22 SalaryCalcWVectors.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "6_22 SalaryCalcWVectors.hpp"; sourceTree = "<group>"; };
 		7AF95524256D6A6900D9F292 /* 7 12 1 Use an existing function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 12 1 Use an existing function.cpp"; sourceTree = "<group>"; };
 		7AF95527256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 12 2 Modify a string parameter.cpp"; sourceTree = "<group>"; };
+		7AF9552A256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 12 3 Modify a vector parameter.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				7AD0329025506FDC0056E01D /* main.cpp */,
 				7AF95527256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp */,
+				7AF9552A256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp */,
 				7AC116D6256C4C87002FC27D /* 7 10 1 Modify Array.cpp */,
 				7AF95524256D6A6900D9F292 /* 7 12 1 Use an existing function.cpp */,
 				7AC116D7256C4C87002FC27D /* 7 10 1 Modify Array.hpp */,
@@ -159,6 +162,7 @@
 				7AF95528256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp in Sources */,
 				7AC116D8256C4C87002FC27D /* 7 10 1 Modify Array.cpp in Sources */,
 				7AE927532566ED0300977C6B /* 791 Function pass by ref transforming coordinates.cpp in Sources */,
+				7AF9552B256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

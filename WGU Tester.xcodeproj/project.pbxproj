@@ -17,6 +17,7 @@
 		7AF95525256D6A6A00D9F292 /* 7 12 1 Use an existing function.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF95524256D6A6900D9F292 /* 7 12 1 Use an existing function.cpp */; };
 		7AF95528256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF95527256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp */; };
 		7AF9552B256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF9552A256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp */; };
+		7AF9552E256DB1B400D9F292 /* 7 13 1 Modify a C string parameter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF9552D256DB1B300D9F292 /* 7 13 1 Modify a C string parameter.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,7 @@
 		7AF95524256D6A6900D9F292 /* 7 12 1 Use an existing function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 12 1 Use an existing function.cpp"; sourceTree = "<group>"; };
 		7AF95527256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 12 2 Modify a string parameter.cpp"; sourceTree = "<group>"; };
 		7AF9552A256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 12 3 Modify a vector parameter.cpp"; sourceTree = "<group>"; };
+		7AF9552D256DB1B300D9F292 /* 7 13 1 Modify a C string parameter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 13 1 Modify a C string parameter.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				7AD0329025506FDC0056E01D /* main.cpp */,
 				7AF95527256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp */,
 				7AF9552A256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp */,
+				7AF9552D256DB1B300D9F292 /* 7 13 1 Modify a C string parameter.cpp */,
 				7AC116D6256C4C87002FC27D /* 7 10 1 Modify Array.cpp */,
 				7AF95524256D6A6900D9F292 /* 7 12 1 Use an existing function.cpp */,
 				7AC116D7256C4C87002FC27D /* 7 10 1 Modify Array.hpp */,
@@ -158,6 +161,7 @@
 				7AD0329125506FDC0056E01D /* main.cpp in Sources */,
 				7AF107C9255F070600D2CBAD /* 6_22 SalaryCalcWVectors.cpp in Sources */,
 				7AF95525256D6A6A00D9F292 /* 7 12 1 Use an existing function.cpp in Sources */,
+				7AF9552E256DB1B400D9F292 /* 7 13 1 Modify a C string parameter.cpp in Sources */,
 				7A76CC2C2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp in Sources */,
 				7AF95528256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp in Sources */,
 				7AC116D8256C4C87002FC27D /* 7 10 1 Modify Array.cpp in Sources */,

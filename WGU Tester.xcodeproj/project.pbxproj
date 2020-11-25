@@ -18,6 +18,7 @@
 		7AF95528256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF95527256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp */; };
 		7AF9552B256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF9552A256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp */; };
 		7AF9552E256DB1B400D9F292 /* 7 13 1 Modify a C string parameter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF9552D256DB1B300D9F292 /* 7 13 1 Modify a C string parameter.cpp */; };
+		7AF95531256ED4F800D9F292 /* 7 16 1 Return number of pennies in total.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AF95530256ED4F800D9F292 /* 7 16 1 Return number of pennies in total.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		7AF95527256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 12 2 Modify a string parameter.cpp"; sourceTree = "<group>"; };
 		7AF9552A256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 12 3 Modify a vector parameter.cpp"; sourceTree = "<group>"; };
 		7AF9552D256DB1B300D9F292 /* 7 13 1 Modify a C string parameter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 13 1 Modify a C string parameter.cpp"; sourceTree = "<group>"; };
+		7AF95530256ED4F800D9F292 /* 7 16 1 Return number of pennies in total.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 16 1 Return number of pennies in total.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				7AF95527256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp */,
 				7AF9552A256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp */,
 				7AF9552D256DB1B300D9F292 /* 7 13 1 Modify a C string parameter.cpp */,
+				7AF95530256ED4F800D9F292 /* 7 16 1 Return number of pennies in total.cpp */,
 				7AC116D6256C4C87002FC27D /* 7 10 1 Modify Array.cpp */,
 				7AF95524256D6A6900D9F292 /* 7 12 1 Use an existing function.cpp */,
 				7AC116D7256C4C87002FC27D /* 7 10 1 Modify Array.hpp */,
@@ -167,6 +170,7 @@
 				7AC116D8256C4C87002FC27D /* 7 10 1 Modify Array.cpp in Sources */,
 				7AE927532566ED0300977C6B /* 791 Function pass by ref transforming coordinates.cpp in Sources */,
 				7AF9552B256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp in Sources */,
+				7AF95531256ED4F800D9F292 /* 7 16 1 Return number of pennies in total.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

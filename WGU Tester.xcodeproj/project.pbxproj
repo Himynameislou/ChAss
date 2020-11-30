@@ -10,6 +10,7 @@
 		7A76CC2825657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC2725657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp */; };
 		7A76CC2C2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC2B2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp */; };
 		7A76CC392565CFFB00F7D755 /* 793 CalculatingMoney.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC372565CFFB00F7D755 /* 793 CalculatingMoney.cpp */; };
+		7A8EE01125754C290047C08F /* 7 21 Domain w Validation Functions.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A8EE01025754C290047C08F /* 7 21 Domain w Validation Functions.cpp */; };
 		7AC116D8256C4C87002FC27D /* 7 10 1 Modify Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AC116D6256C4C87002FC27D /* 7 10 1 Modify Array.cpp */; };
 		7AD0329125506FDC0056E01D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AD0329025506FDC0056E01D /* main.cpp */; };
 		7AE927532566ED0300977C6B /* 791 Function pass by ref transforming coordinates.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AE927512566ED0300977C6B /* 791 Function pass by ref transforming coordinates.cpp */; };
@@ -38,6 +39,7 @@
 		7A76CC2B2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "781 Function Errors Copying Function.cpp"; sourceTree = "<group>"; };
 		7A76CC372565CFFB00F7D755 /* 793 CalculatingMoney.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "793 CalculatingMoney.cpp"; sourceTree = "<group>"; };
 		7A76CC382565CFFB00F7D755 /* 793 CalculatingMoney.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "793 CalculatingMoney.hpp"; sourceTree = "<group>"; };
+		7A8EE01025754C290047C08F /* 7 21 Domain w Validation Functions.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 21 Domain w Validation Functions.cpp"; sourceTree = "<group>"; };
 		7AC116D6256C4C87002FC27D /* 7 10 1 Modify Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 10 1 Modify Array.cpp"; sourceTree = "<group>"; };
 		7AC116D7256C4C87002FC27D /* 7 10 1 Modify Array.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "7 10 1 Modify Array.hpp"; sourceTree = "<group>"; };
 		7AD0328D25506FDC0056E01D /* WGU Tester */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "WGU Tester"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -67,6 +69,7 @@
 		7AD0328425506FDC0056E01D = {
 			isa = PBXGroup;
 			children = (
+				7A8EE01025754C290047C08F /* 7 21 Domain w Validation Functions.cpp */,
 				7AD0328F25506FDC0056E01D /* WGU Tester */,
 				7AD0328E25506FDC0056E01D /* Products */,
 			);
@@ -166,6 +169,7 @@
 				7AF95525256D6A6A00D9F292 /* 7 12 1 Use an existing function.cpp in Sources */,
 				7AF9552E256DB1B400D9F292 /* 7 13 1 Modify a C string parameter.cpp in Sources */,
 				7A76CC2C2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp in Sources */,
+				7A8EE01125754C290047C08F /* 7 21 Domain w Validation Functions.cpp in Sources */,
 				7AF95528256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp in Sources */,
 				7AC116D8256C4C87002FC27D /* 7 10 1 Modify Array.cpp in Sources */,
 				7AE927532566ED0300977C6B /* 791 Function pass by ref transforming coordinates.cpp in Sources */,

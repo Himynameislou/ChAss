@@ -25,7 +25,10 @@ void DogLicense::SetYear(int yearRegistered) {
 }
 
 // FIXME: Write CreateLicenseNum()
-
+void DogLicense::CreateLicenseNum(int customID){
+   licenseNum = (100000 * customID) + licenseYear;
+   return;
+}
 /* Your solution goes here  */
 
 int DogLicense::GetLicenseNum() const {

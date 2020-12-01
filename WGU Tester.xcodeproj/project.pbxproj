@@ -69,7 +69,6 @@
 		7AD0328425506FDC0056E01D = {
 			isa = PBXGroup;
 			children = (
-				7A8EE01025754C290047C08F /* 7 21 Domain w Validation Functions.cpp */,
 				7AD0328F25506FDC0056E01D /* WGU Tester */,
 				7AD0328E25506FDC0056E01D /* Products */,
 			);
@@ -87,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				7AD0329025506FDC0056E01D /* main.cpp */,
+				7A8EE01025754C290047C08F /* 7 21 Domain w Validation Functions.cpp */,
 				7AF95527256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp */,
 				7AF9552A256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp */,
 				7AF9552D256DB1B300D9F292 /* 7 13 1 Modify a C string parameter.cpp */,

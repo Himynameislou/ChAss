@@ -46,6 +46,10 @@ int main() {
    // FIXME add unit test for addInventory
 
    /* Your solution goes here  */
+    redSweater.addInventory(sweaterShipment);
+    if (redSweater.getQuantityRemaining() != sweaterShipment) {
+        cout << "   UNIT TEST FAILED: addInventory()\n";
+    }
 
    cout << "Tests complete." << endl;
 

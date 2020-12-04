@@ -21,6 +21,7 @@ class CablePlan{
 void CablePlan::SetNumDays(int numDays) {
 
    /* Your solution goes here  */
+    this -> numDays = numDays;
 
    return;
 }

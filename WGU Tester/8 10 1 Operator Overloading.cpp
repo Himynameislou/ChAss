@@ -34,6 +34,11 @@ void FamilyVacation::SetNumPeople(int peopleCount) {
 //        which adds 5 to numDays, while just copying numPeople.
 
 /* Your solution goes here  */
+FamilyVacation FamilyVacation::operator+(int rhsNum){
+    FamilyVacation newVacation;
+    newVacation.numDays = numDays + rhsNum;
+    return newVacation;
+}
 
 void FamilyVacation::Print() const {
    cout << "Days: " << numDays << ", People: " << numPeople << endl;

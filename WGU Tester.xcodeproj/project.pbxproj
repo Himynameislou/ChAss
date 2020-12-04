@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7A491FF2257952DC000B964C /* 8 8 1 Unit testing of a class.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A491FF1257952DC000B964C /* 8 8 1 Unit testing of a class.cpp */; };
 		7A491FF5257AA4F7000B964C /* 8 9 1 Implicit parameter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A491FF4257AA4F7000B964C /* 8 9 1 Implicit parameter.cpp */; };
+		7A491FF8257AB0E6000B964C /* 8 10 1 Operator Overloading.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A491FF7257AB0E6000B964C /* 8 10 1 Operator Overloading.cpp */; };
 		7A628B092577F31B0014B534 /* 8 6 1 Constructor overloading.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A628B082577F31B0014B534 /* 8 6 1 Constructor overloading.cpp */; };
 		7A76CC2825657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC2725657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp */; };
 		7A76CC2C2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC2B2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp */; };
@@ -42,6 +43,7 @@
 /* Begin PBXFileReference section */
 		7A491FF1257952DC000B964C /* 8 8 1 Unit testing of a class.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8 8 1 Unit testing of a class.cpp"; sourceTree = "<group>"; };
 		7A491FF4257AA4F7000B964C /* 8 9 1 Implicit parameter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8 9 1 Implicit parameter.cpp"; sourceTree = "<group>"; };
+		7A491FF7257AB0E6000B964C /* 8 10 1 Operator Overloading.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8 10 1 Operator Overloading.cpp"; sourceTree = "<group>"; };
 		7A628B082577F31B0014B534 /* 8 6 1 Constructor overloading.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8 6 1 Constructor overloading.cpp"; sourceTree = "<group>"; };
 		7A76CC2725657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "752 Function w Loop Shampoo.cpp"; sourceTree = "<group>"; usesTabs = 1; };
 		7A76CC2B2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "781 Function Errors Copying Function.cpp"; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				7AF107C8255F070600D2CBAD /* 6_22 SalaryCalcWVectors.hpp */,
 				7A7A4E3F2576A5B100281DE0 /* 8 2 2 Basic Class Use.cpp */,
 				7A7A4E432576AD8400281DE0 /* 8 2 3 Basic Class Definition.cpp */,
+				7A491FF7257AB0E6000B964C /* 8 10 1 Operator Overloading.cpp */,
 				7A491FF4257AA4F7000B964C /* 8 9 1 Implicit parameter.cpp */,
 				7A491FF1257952DC000B964C /* 8 8 1 Unit testing of a class.cpp */,
 				7A628B082577F31B0014B534 /* 8 6 1 Constructor overloading.cpp */,
@@ -195,6 +198,7 @@
 				7AF9552B256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp in Sources */,
 				7A7A4E442576AD8400281DE0 /* 8 2 3 Basic Class Definition.cpp in Sources */,
 				7AF95531256ED4F800D9F292 /* 7 16 1 Return number of pennies in total.cpp in Sources */,
+				7A491FF8257AB0E6000B964C /* 8 10 1 Operator Overloading.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

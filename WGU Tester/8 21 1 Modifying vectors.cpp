@@ -26,6 +26,9 @@ int main() {
    numsList.push_back(103);
 
    /* Your solution goes here  */
+    numsList.insert(numsList.begin() + 0, 100);
+    numsList.erase(numsList.begin() + 2);
+    numsList.insert(numsList.begin() + 2, 102);
 
    PrintVectors(numsList);
 

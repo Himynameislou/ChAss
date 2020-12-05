@@ -16,13 +16,14 @@ void numsInsert(vector<int>& numsList, int newNum) {
    for (i = 0; i < numsList.size(); ++i) {
       if (newNum < numsList.at(i)) {
          // FIXME: insert newNum at element i
+          numsList.insert(numsList.begin() + i, newNum);
          break; // Exits the for loop
       }
    }
 
    // FIXME: change so executes if higher number NOT found
    // Change "true" to "i == ??" (determine what ?? should be)
-   if (true) { // No higher number was found, so append to end
+   if (i == numsList.size()) { // No higher number was found, so append to end
       numsList.push_back(newNum);
 
    }

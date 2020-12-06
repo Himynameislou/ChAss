@@ -14,6 +14,7 @@
 		7A71C4C3257BFB2400D9E625 /* 8 12 6 Insert sorted order.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A71C4C2257BFB2400D9E625 /* 8 12 6 Insert sorted order.cpp */; };
 		7A71C4C6257C046E00D9E625 /* 8 21 1 Modifying vectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A71C4C5257C046E00D9E625 /* 8 21 1 Modifying vectors.cpp */; };
 		7A71C4C9257C6CD200D9E625 /* 8  16 Salary Calculation with classes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A71C4C8257C6CD200D9E625 /* 8  16 Salary Calculation with classes.cpp */; };
+		7A71C4CD257C6DF500D9E625 /* TaxTableTools.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A71C4CB257C6DF500D9E625 /* TaxTableTools.cpp */; };
 		7A76CC2825657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC2725657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp */; };
 		7A76CC2C2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC2B2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp */; };
 		7A76CC392565CFFB00F7D755 /* 793 CalculatingMoney.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC372565CFFB00F7D755 /* 793 CalculatingMoney.cpp */; };
@@ -51,6 +52,8 @@
 		7A71C4C2257BFB2400D9E625 /* 8 12 6 Insert sorted order.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8 12 6 Insert sorted order.cpp"; sourceTree = "<group>"; };
 		7A71C4C5257C046E00D9E625 /* 8 21 1 Modifying vectors.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8 21 1 Modifying vectors.cpp"; sourceTree = "<group>"; };
 		7A71C4C8257C6CD200D9E625 /* 8  16 Salary Calculation with classes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8  16 Salary Calculation with classes.cpp"; sourceTree = "<group>"; };
+		7A71C4CB257C6DF500D9E625 /* TaxTableTools.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TaxTableTools.cpp; sourceTree = "<group>"; };
+		7A71C4CC257C6DF500D9E625 /* TaxTableTools.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TaxTableTools.hpp; sourceTree = "<group>"; };
 		7A76CC2725657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "752 Function w Loop Shampoo.cpp"; sourceTree = "<group>"; usesTabs = 1; };
 		7A76CC2B2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "781 Function Errors Copying Function.cpp"; sourceTree = "<group>"; };
 		7A76CC372565CFFB00F7D755 /* 793 CalculatingMoney.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "793 CalculatingMoney.cpp"; sourceTree = "<group>"; };
@@ -123,6 +126,8 @@
 				7A7A4E3F2576A5B100281DE0 /* 8 2 2 Basic Class Use.cpp */,
 				7A7A4E432576AD8400281DE0 /* 8 2 3 Basic Class Definition.cpp */,
 				7A71C4C8257C6CD200D9E625 /* 8  16 Salary Calculation with classes.cpp */,
+				7A71C4CB257C6DF500D9E625 /* TaxTableTools.cpp */,
+				7A71C4CC257C6DF500D9E625 /* TaxTableTools.hpp */,
 				7A71C4C5257C046E00D9E625 /* 8 21 1 Modifying vectors.cpp */,
 				7A491FF7257AB0E6000B964C /* 8 10 1 Operator Overloading.cpp */,
 				7A71C4C2257BFB2400D9E625 /* 8 12 6 Insert sorted order.cpp */,
@@ -200,6 +205,7 @@
 				7A71C4C6257C046E00D9E625 /* 8 21 1 Modifying vectors.cpp in Sources */,
 				7A76CC2C2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp in Sources */,
 				7A491FF5257AA4F7000B964C /* 8 9 1 Implicit parameter.cpp in Sources */,
+				7A71C4CD257C6DF500D9E625 /* TaxTableTools.cpp in Sources */,
 				7A7A4E402576A5B100281DE0 /* 8 2 2 Basic Class Use.cpp in Sources */,
 				7A8EE01125754C290047C08F /* 7 21 Domain w Validation Functions.cpp in Sources */,
 				7AF95528256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp in Sources */,

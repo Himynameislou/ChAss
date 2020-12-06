@@ -10,7 +10,7 @@
 #include <limits>
 #include <vector>
 #include <string>
-#include "TaxTableTools.h"
+#include "TaxTableTools.hpp"
 
 int GetInteger(const string userPrompt) {
    int inputValue = 0;

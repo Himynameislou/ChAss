@@ -17,6 +17,7 @@
 		7A71C4CD257C6DF500D9E625 /* TaxTableTools.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A71C4CB257C6DF500D9E625 /* TaxTableTools.cpp */; };
 		7A71C4D02581417C00D9E625 /* 9 2 1 printing w pointers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A71C4CF2581417C00D9E625 /* 9 2 1 printing w pointers.cpp */; };
 		7A71C4D32581593700D9E625 /* 9 3 2 allocating memory.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A71C4D22581593600D9E625 /* 9 3 2 allocating memory.cpp */; };
+		7A71C4D625815D4B00D9E625 /* 9 3 3 deallocating memory.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A71C4D525815D4B00D9E625 /* 9 3 3 deallocating memory.cpp */; };
 		7A76CC2825657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC2725657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp */; };
 		7A76CC2C2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC2B2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp */; };
 		7A76CC392565CFFB00F7D755 /* 793 CalculatingMoney.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7A76CC372565CFFB00F7D755 /* 793 CalculatingMoney.cpp */; };
@@ -58,6 +59,7 @@
 		7A71C4CC257C6DF500D9E625 /* TaxTableTools.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TaxTableTools.hpp; sourceTree = "<group>"; };
 		7A71C4CF2581417C00D9E625 /* 9 2 1 printing w pointers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "9 2 1 printing w pointers.cpp"; sourceTree = "<group>"; };
 		7A71C4D22581593600D9E625 /* 9 3 2 allocating memory.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "9 3 2 allocating memory.cpp"; sourceTree = "<group>"; };
+		7A71C4D525815D4B00D9E625 /* 9 3 3 deallocating memory.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "9 3 3 deallocating memory.cpp"; sourceTree = "<group>"; };
 		7A76CC2725657B1E00F7D755 /* 752 Function w Loop Shampoo.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "752 Function w Loop Shampoo.cpp"; sourceTree = "<group>"; usesTabs = 1; };
 		7A76CC2B2565BA9600F7D755 /* 781 Function Errors Copying Function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "781 Function Errors Copying Function.cpp"; sourceTree = "<group>"; };
 		7A76CC372565CFFB00F7D755 /* 793 CalculatingMoney.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "793 CalculatingMoney.cpp"; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				7A7A4E3F2576A5B100281DE0 /* 8 2 2 Basic Class Use.cpp */,
 				7A7A4E432576AD8400281DE0 /* 8 2 3 Basic Class Definition.cpp */,
 				7A71C4D22581593600D9E625 /* 9 3 2 allocating memory.cpp */,
+				7A71C4D525815D4B00D9E625 /* 9 3 3 deallocating memory.cpp */,
 				7A71C4CF2581417C00D9E625 /* 9 2 1 printing w pointers.cpp */,
 				7A71C4C8257C6CD200D9E625 /* 8  16 Salary Calculation with classes.cpp */,
 				7A71C4CB257C6DF500D9E625 /* TaxTableTools.cpp */,
@@ -219,6 +222,7 @@
 				7AF95528256D71B800D9F292 /* 7 12 2 Modify a string parameter.cpp in Sources */,
 				7AC116D8256C4C87002FC27D /* 7 10 1 Modify Array.cpp in Sources */,
 				7A71C4C3257BFB2400D9E625 /* 8 12 6 Insert sorted order.cpp in Sources */,
+				7A71C4D625815D4B00D9E625 /* 9 3 3 deallocating memory.cpp in Sources */,
 				7AE927532566ED0300977C6B /* 791 Function pass by ref transforming coordinates.cpp in Sources */,
 				7AF9552B256D780600D9F292 /* 7 12 3 Modify a vector parameter.cpp in Sources */,
 				7A7A4E442576AD8400281DE0 /* 8 2 3 Basic Class Definition.cpp in Sources */,

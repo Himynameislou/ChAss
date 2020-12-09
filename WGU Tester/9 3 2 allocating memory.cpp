@@ -13,6 +13,7 @@ int main() {
    double* houseHeight = nullptr;
 
    /* Your solution goes here  */
+    houseHeight = new double;
 
    *houseHeight = 23;
    cout << "houseHeight is " << *houseHeight;

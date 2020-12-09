@@ -14,6 +14,9 @@ int main() {
    int numItems = 99;
 
    /* Your solution goes here  */
+    numItemsPtr = &numItems;
+       
+    cout << "Items: " << *numItemsPtr << endl;
 
    return 0;
 }

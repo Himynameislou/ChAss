@@ -15,6 +15,7 @@ int main() {
    char* movieResult = nullptr;
 
    /* Your solution goes here  */
+    movieResult = strstr(movieTitle, "The");
 
    cout << "Movie title contains The? ";
    if (movieResult != nullptr) {

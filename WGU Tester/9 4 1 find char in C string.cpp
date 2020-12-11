@@ -16,7 +16,7 @@ int main() {
    char* searchResult = nullptr;
 
    /* Your solution goes here  */
-    
+    searchResult = strrchr(personName, searchChar);
 
 
    if (searchResult != nullptr) {
